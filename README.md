@@ -1,4 +1,4 @@
-# awesome-astra
+# Awesome Astra
 A collection of add-ons for the [Astra theme](https://wpastra.com/).
 
 ## Add-Ons
